@@ -13,7 +13,7 @@
   <img align="center" alt="Jack-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="right" alt="Jack-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/63818417?s=400&u=c4953f6a381f64acde0a1497df5fcd30ecb79d03&v=4">
 </div>
-  ##
+ <hr>
  
 <div> 
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
