@@ -1,4 +1,6 @@
+  <img align="right" alt="Jack-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/63818417?s=400&u=c4953f6a381f64acde0a1497df5fcd30ecb79d03&v=4">
 ## EDOÃ JACK
+
 <div align="center">
   <a href="https://github.com/jackvadderr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jackvadderr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -11,7 +13,7 @@
   <img align="center" alt="Jack-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jack-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Jack-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="right" alt="Jack-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/63818417?s=400&u=c4953f6a381f64acde0a1497df5fcd30ecb79d03&v=4">
+
 </div>
  <hr>
  
