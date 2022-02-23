@@ -1,6 +1,10 @@
-## Edoã Jack
-<img align="right" alt="Jack-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/63818417?s=400&u=c4953f6a381f64acde0a1497df5fcd30ecb79d03&v=4">
-
+<div align="center">
+<img alt="Jack-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/63818417?s=400&u=c4953f6a381f64acde0a1497df5fcd30ecb79d03&v=4">
+<br>
+<h1 align="center">Edoã Jack</<h1>
+<hr>
+  </div>
+  
 <div align="left">
   <a href="https://github.com/jackvadderr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jackvadderr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -24,7 +28,6 @@
 </div>
  
  ## Social
-<hr>
 <div> 
  <a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
