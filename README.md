@@ -4,6 +4,11 @@
 <div align="left">
   <a href="https://github.com/jackvadderr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jackvadderr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
+## Linguagens
+<div align="left">
+  <a href="https://github.com/jackvadderr">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackvadderr&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
@@ -18,14 +23,14 @@
 
 </div>
  
- ## SOCIAL
+ ## Social
 <hr>
 <div> 
  <a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/edo%C3%A3-jack/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-## MY SNAKE
+## Snake
   
   
 ![snake gif](https://github.com/jackvadderr/jackvadderr/blob/output/github-contribution-grid-snake.gif)
