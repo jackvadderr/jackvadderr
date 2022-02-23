@@ -1,6 +1,7 @@
 ## EDOÃ JACK
   <img align="right" alt="Jack-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/63818417?s=400&u=c4953f6a381f64acde0a1497df5fcd30ecb79d03&v=4">
- <hr>
+
+## SOCIAL
 <div align="left">
   <a href="https://github.com/jackvadderr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jackvadderr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -24,7 +25,8 @@
   <a href="https://www.linkedin.com/in/edo%C3%A3-jack/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <hr>
   
-##Cobrinha desnutrida :p
+## MY SNAKE
+  
   
 ![snake gif](https://github.com/jackvadderr/jackvadderr/blob/output/github-contribution-grid-snake.gif)
 
