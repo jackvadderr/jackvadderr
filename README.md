@@ -23,5 +23,4 @@
   <a href="https://www.linkedin.com/in/edo%C3%A3-jack/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/jackvadderr/jackvadderr/blob/output/github-contribution-grid-snake.svg)
- https://raw.githubusercontent.com/jackvadderr/jackvadderr/output/github-contribution-grid-snake.svg
 
