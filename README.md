@@ -1,5 +1,5 @@
-  <img align="right" alt="Jack-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/63818417?s=400&u=c4953f6a381f64acde0a1497df5fcd30ecb79d03&v=4">
 ## EDOÃ JACK
+  <img align="right" alt="Jack-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/63818417?s=400&u=c4953f6a381f64acde0a1497df5fcd30ecb79d03&v=4">
 
 <div align="center">
   <a href="https://github.com/jackvadderr">
