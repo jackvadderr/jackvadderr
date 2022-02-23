@@ -1,4 +1,4 @@
-<div align="center" postion:>
+<div align="center">
         <img alt="Jack-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/rvmo7hFBqOwAAAAS/bps-shirase.gif">
         <br>
         <h1 align="center">Edoã Jack</<h1>
