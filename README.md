@@ -1,4 +1,4 @@
-<div align="center" style="background-color:black;">
+<div align="center" style="display: inline_block">
         <img alt="Jack-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/63818417/155450312-870b621b-3d0b-4316-bde8-987548be0e5a.gif">
         <br>
         <h1 align="center">Edoã Jack</<h1>
@@ -16,7 +16,7 @@
 ## Technologies
 
 <div style="display: inline_block"><br>
-                  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_black"><img align="center" alt="Jack-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_black"><img align="center" alt="Jack-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_black"><img align="center" alt="Jack-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_black"><img align="center" alt="Jack-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <a href="https://www.python.org/" target="_black"><img align="center" alt="Jack-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
