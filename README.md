@@ -2,7 +2,7 @@
         <img alt="Jack-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/rvmo7hFBqOwAAAAS/bps-shirase.gif">
         <br>
         <h1 align="center">Edoã Jack</<h1>
-        <blockquote>citação</blockquote>
+        <blockquote>Em construção</blockquote>
   </div>
 
         
