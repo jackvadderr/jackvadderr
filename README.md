@@ -2,7 +2,7 @@
         <img alt="Jack-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/63818417/155450312-870b621b-3d0b-4316-bde8-987548be0e5a.gif">
         <br>
         <h1 align="center">Edoã Jack</<h1>
-        <h2><blockquote>Estudante de Engenharia da Computação</blockquote></h2>
+        <h2><blockquote>Computer Engineering Student</blockquote></h2>
   </div>
 
         
