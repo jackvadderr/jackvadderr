@@ -1,3 +1,4 @@
+<!--
 <div align="center" style="display: inline_block">
         <img alt="Jack-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/63818417/155450312-870b621b-3d0b-4316-bde8-987548be0e5a.gif">
         <br>
@@ -32,4 +33,5 @@
  <a href="https://t.me/jackvadderr" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/edo%C3%A3-jack/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+-->
 $$\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.1; background: url("https://64.media.tumblr.com/1f85df5f54c6fe166c3c78bf60c60c31/b418c3ea3f0bc213-4f/s540x810/69ae1019482b0099fa4c0790400736917c83d483.gif");]{x0000}$}$$
