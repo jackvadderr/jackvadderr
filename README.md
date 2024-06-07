@@ -1,4 +1,3 @@
-<!--
 <div align="center" style="display: inline_block">
         <img alt="Jack-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/63818417/155450312-870b621b-3d0b-4316-bde8-987548be0e5a.gif">
         <br>
@@ -33,6 +32,6 @@
  <a href="https://t.me/jackvadderr" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/edo%C3%A3-jack/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
--->
+
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.1; background: url('https://github.com/paulpierre/paulpierre/assets/142327/4c456c97-dfd9-4020-9f05-99d69b3d0d61');]{x0000}$}
