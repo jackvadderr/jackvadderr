@@ -27,6 +27,3 @@
 ## Contribution snake
   
 ![snake gif](https://github.com/jackvadderr/jackvadderr/blob/output/github-contribution-grid-snake.gif)
-<div> 
- <a href="https://t.me/Ox4a61" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-</div>
