@@ -24,7 +24,5 @@
   <a href="" target="_black"><img align="center" alt="Jack-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
  </div>
 -->
-
-## Contribution snake
-  
+ 
 ![snake gif](https://github.com/jackvadderr/jackvadderr/blob/output/github-contribution-grid-snake.gif)
